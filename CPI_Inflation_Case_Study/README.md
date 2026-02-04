@@ -9,7 +9,7 @@ Using historical data, the study breaks down inflation behavior across key categ
 ---
 
 ### **📊 Dataset Used**
-
+- <a href="https://github.com/codewithnik001/Excel_Projects/blob/main/CPI_Inflation_Case_Study/CPI_InfLation_Raw_Dataset.csv">Raw Dataset</a>
 
 ---
 
