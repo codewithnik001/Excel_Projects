@@ -69,5 +69,5 @@ This case study addresses **5 critical economic questions**:
 
 ---
 
-**Author:** Nikhil Goswami
-* *Connect with me on LinkedIn!* : https://www.linkedin.com/in/nikhil-goswami-5938431aa/
+* **Author:** Nikhil Goswami
+* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
