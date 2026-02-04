@@ -13,16 +13,6 @@ Using historical data, the study breaks down inflation behavior across key categ
 
 ---
 
-### **📸 Dashboard Screenshots**
-
-*(Add your dashboard images below. Replace `image_path` with your actual file names)*
-
-*Figure 1: Overall CPI Trend & Category Contribution*
-
-*Figure 2: Sector-wise Inflation & Price Volatility*
-
----
-
 ### **🎯 Problem Statements & Analysis**
 
 This case study addresses **5 critical economic questions**:
@@ -80,4 +70,4 @@ This case study addresses **5 critical economic questions**:
 ---
 
 **Author:** Nikhil Goswami
-*Connect with me on LinkedIn!* : https://www.linkedin.com/in/nikhil-goswami-5938431aa/
+* *Connect with me on LinkedIn!* : https://www.linkedin.com/in/nikhil-goswami-5938431aa/
