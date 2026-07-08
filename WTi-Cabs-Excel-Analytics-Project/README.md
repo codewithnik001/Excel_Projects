@@ -228,7 +228,6 @@ Through this project, I strengthened my practical knowledge of:
 
 - 📧 Email: codewithnik001@gmail.com
 - 💼 Aspiring Data Analyst | Excel | SQL | Python | Power BI
-- 🔗 GitHub: https://github.com/YourGitHubUsername
 
 ---
 
