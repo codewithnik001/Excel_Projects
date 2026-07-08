@@ -1,8 +1,8 @@
-# 🚖 WTi Cabs Fleet Analytics Dashboard (Microsoft Excel)
+# 🚖 Cabs Fleet Analytics Dashboard (Microsoft Excel)
 
 ## 📌 Project Overview
 
-This project is an end-to-end Microsoft Excel business analytics solution developed using a simulated corporate mobility dataset for **WTi Cabs**.
+This project is an end-to-end Microsoft Excel business analytics solution developed using a simulated corporate mobility dataset for **Cabs**.
 
 The objective was to clean, validate, analyze, and visualize fleet and operational data while building an executive dashboard to support business decision-making.
 
